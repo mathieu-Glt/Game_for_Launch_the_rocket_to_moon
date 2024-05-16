@@ -1,9 +1,9 @@
 # ![icons8-fusée-60](https://github.com/mathieu-Glt/Game_for_Launch_the_rocket_to_moon/assets/84771497/34b91701-ec0f-444f-b904-a3285fe4b392) Launches rocket to moon apollo 13 ! ![icons8-fusée-60(1)](https://github.com/mathieu-Glt/Game_for_Launch_the_rocket_to_moon/assets/84771497/154f3796-7929-4339-8f5f-4c89f0947d05) 
 
 ## Purpose 
-Swigert : "Okay, Houston, I believe we've had a problem here" from the Apolo 13 crew 
-Capsule communicator : "Can you repeat , please !
-Swigert : "Uh, Houston, we've had a problem"
+Swigert : "Okay, Houston, I believe we've had a problem here" from the Apolo 13 crew <br>
+Capsule communicator : "Can you repeat , please !<br>
+Swigert : "Uh, Houston, we've had a problem"<br>
 the rest of the story depends on you helping the crew on their mission to land on the moon. 
 
 ## Technologies 
